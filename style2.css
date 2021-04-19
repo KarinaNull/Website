@@ -136,3 +136,28 @@ section {
 .aside-menu li:first-child {
     border: none;
 }
+
+blockquote {
+    margin: 0;
+    background: #2c819260;
+    padding: 10px 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+}
+
+blockquote p {
+    font-family: arial;
+    margin-top: 0px;
+    color: #fff;
+    font-style: italic;
+    font-size: 15px;
+}
+
+blockquote cite {
+    display: block;
+    font-size: 10px;
+    font-style: normal;
+    color: #000746;
+    margin: 0px;
+    text-align: right;
+}
