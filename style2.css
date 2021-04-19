@@ -161,3 +161,20 @@ blockquote cite {
     margin: 0px;
     text-align: right;
 }
+
+aside>h2 {
+    background: #1b8094;
+    font: 14px 'Oswald', sans-serif;
+    color: #fff;
+    padding: 10px;
+    margin: 300px 0 0 0/*top, right, bottom, left*/
+}
+
+aside>p {
+    background: #ABCDEF;
+    border-top: 1px solid #e7e7e7;
+    padding: 10px;
+    margin: 0;
+    width: 230px;
+    height: 180px;
+}
