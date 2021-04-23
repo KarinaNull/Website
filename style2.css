@@ -197,3 +197,23 @@ figure img {
     border: 1px solid #fff;
     outline: 1px solid #c9c9c9;
 }
+
+section>h2 {
+    background: #087d9467;
+    font-family: 20px 'Oswald', sans-serif;
+    color: #fff;
+    padding: 0 30px;
+    margin: 20px 0 0 0;
+}
+
+figure figcaption {
+    display: block;
+    font-size: 15px;
+    margin: 10px 50px 0 10px;
+    color: #fff;
+    font-family: arial;
+}
+
+.others-products figure {
+    margin-top: 20px;
+}
