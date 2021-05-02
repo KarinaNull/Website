@@ -217,3 +217,39 @@ figure figcaption {
 .others-products figure {
     margin-top: 20px;
 }
+
+footer {
+    background-color: rgba(87, 138, 148, 0.486);
+    color: #ffffff;
+    height: 120px;
+    margin: 100px 0 0 0;
+}
+
+footer h3 {
+    font: 14px 'Oswald', sans-serif;
+    color: rgba(15, 4, 116, 0.582);
+    border-bottom: 1px solid #0d6ac0;
+    margin: 5px 0 10px 0;
+}
+
+#social time div {
+    color: #000000;
+    border-bottom: 1px solid #0d6ac0;
+}
+
+footer p {
+    margin: 5px 0 0 0;
+}
+
+#social {
+    float: left;
+    width: 300px;
+    margin: auto;
+    height: 120px;
+    margin: 0 20px 0;
+}
+
+#social p {
+    padding-right: 10px;
+    color: #000000;
+}
