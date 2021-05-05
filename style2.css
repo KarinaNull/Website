@@ -56,7 +56,7 @@ ul {
     margin-top: 25px;
 }
 
-a {
+.top-menu a, .aside-menu a {
     text-decoration: none;
     background: #94b8c9;
     color: #fff;
@@ -67,7 +67,7 @@ a {
     border-right: 1px solid #ffffff;
 }
 
-a:hover {
+a:hover:not(.social-icon a, ) {
     background: #001381;
 }
 
@@ -252,4 +252,18 @@ footer p {
 #social p {
     padding-right: 10px;
     color: #000000;
+}
+
+.social-icon {
+    float: right;
+    margin-right: 50px;
+    width: 130px;
+}
+
+.social-icon a {
+    width: 30px;
+    height: 30px;
+    background: url(NavPicture.png) no-repeat;
+    display: inline-block;
+    margin-right: 10px;
 }
