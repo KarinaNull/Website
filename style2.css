@@ -4,6 +4,7 @@ body {
     background-color: #f8f8f8;
     border-top: 5px solid #7e7e7e;
     margin: 0;
+    /*csslint box-sizing: false*/
 }
 
 p {
@@ -32,6 +33,7 @@ input[type="text"] {
     color: #b2b2b2;
     padding: 0 10px;
     vertical-align: top;
+    box-sizing: border-box;
 }
 
 .wrapper {
@@ -158,6 +160,7 @@ section {
     margin: 0;
     width: 250px;
     height: 50px;
+    box-sizing: border-box;
 }
 
 .aside-menu a {
@@ -205,8 +208,9 @@ aside>p {
     border-top: 1px solid #e7e7e7;
     padding: 10px;
     margin: 0;
-    width: 230px;
+    width: 250px;
     height: 180px;
+    box-sizing: border-box;
 }
 
 figure {
