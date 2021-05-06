@@ -34,7 +34,7 @@ input[type="text"] {
     vertical-align: top;
 }
 
-#wrapper {
+.wrapper {
     max-width: 960px;
     margin: auto;
 }
@@ -60,7 +60,7 @@ ul {
     text-decoration: none;
     background: #94b8c9;
     color: #fff;
-    padding: 0px 15px;
+    padding: 0 15px;
     font-family: arial;
     line-height: 50px;
     display: block;
@@ -107,14 +107,12 @@ li>ul>li>a {
     padding-left: 0;
     background: #94b8c9;
     height: 50px;
-    margin-top: 0px;
 }
 
 /*Стили для скрытого выпадающего меню*/
 
 .aside-menu li>ul {
     position: absolute;
-    top: 0px;
     display: none;
     left: 250px;
 }
@@ -125,18 +123,12 @@ li>ul>li>a {
     display: block;
     width: 250px;
     z-index: 1;
-    top: 0px;
+    top: 0;
 }
 
 .aside-menu li:hover>ul>li {
     float: left;
     border: 1px solid #e7e7e7;
-}
-
-#heading {
-    /*background-image: url(navBar3.png);*/
-    margin: 30px 0;
-    padding-left: 20px;
 }
 
 h1 {
@@ -186,7 +178,7 @@ blockquote {
 
 blockquote p {
     font-family: arial;
-    margin-top: 0px;
+    margin-top: 0;
     color: #fff;
     font-style: italic;
     font-size: 15px;
@@ -197,7 +189,6 @@ blockquote cite {
     font-size: 10px;
     font-style: normal;
     color: #000746;
-    margin: 0px;
     text-align: right;
 }
 
@@ -232,7 +223,8 @@ figure img {
 
 section>h2 {
     background: #087d9467;
-    font-family: 20px 'Oswald', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    height: 20px;
     color: #fff;
     padding: 0 30px;
     margin: 20px 0 0 0;
@@ -251,20 +243,20 @@ figure figcaption {
 }
 
 footer {
-    background-color: rgba(87, 138, 148, 0.486);
+    background-color: #2c819260;
     color: #ffffff;
     height: 120px;
     margin: 100px 0 0 0;
 }
 
-footer h3 {
+h3 {
     font: 14px 'Oswald', sans-serif;
-    color: rgba(15, 4, 116, 0.582);
+    color: #001381;
     border-bottom: 1px solid #0d6ac0;
     margin: 5px 0 10px 0;
 }
 
-#social time div {
+.social time div {
     color: #000000;
     border-bottom: 1px solid #0d6ac0;
 }
@@ -273,15 +265,14 @@ footer p {
     margin: 5px 0 0 0;
 }
 
-#social {
+.social {
     float: left;
     width: 300px;
-    margin: auto;
     height: 120px;
     margin: 0 20px 0;
 }
 
-#social p {
+.social p {
     padding-right: 10px;
     color: #000000;
 }
