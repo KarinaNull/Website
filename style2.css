@@ -133,15 +133,6 @@ li>ul>li>a {
     border: 1px solid #e7e7e7;
 }
 
-h1 {
-    color: #000000;
-    display: inline-block;
-    font: 40px/40px 'Oswald', sans-serif;
-    /*background: url(NavPicture.png);*/
-    margin: 0;
-    padding: 0 10px;
-}
-
 aside {
     float: left;
     width: 250px;
@@ -195,7 +186,7 @@ blockquote cite {
     text-align: right;
 }
 
-aside>h2 {
+h2 {
     background: #1b8094;
     font: 14px 'Oswald', sans-serif;
     color: #fff;
@@ -225,13 +216,14 @@ figure img {
     outline: 1px solid #c9c9c9;
 }
 
-section>h2 {
+h3 {
     background: #087d9467;
     font-family: 'Oswald', sans-serif;
     height: 20px;
     color: #fff;
     padding: 0 30px;
     margin: 20px 0 0 0;
+    font-size: 18px;
 }
 
 figure figcaption {
@@ -253,11 +245,11 @@ footer {
     margin: 100px 0 0 0;
 }
 
-h3 {
+h4 {
     font: 14px 'Oswald', sans-serif;
     color: #001381;
     border-bottom: 1px solid #0d6ac0;
-    margin: 5px 0 10px 0;
+    margin: 2px 0 10px 0;
 }
 
 .social time div {
