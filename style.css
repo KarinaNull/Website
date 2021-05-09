@@ -282,7 +282,7 @@ footer p {
 .social-icon a {
     width: 30px;
     height: 30px;
-    background: url(NavPicture.png) no-repeat;
+    background: url(images/social-icon.png) no-repeat;
     display: inline-block;
     margin-right: 10px;
 }
