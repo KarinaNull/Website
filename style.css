@@ -69,7 +69,7 @@ ul {
     border-right: 1px solid #ffffff;
 }
 
-a:hover:not(.social-icon a) {
+a:hover {
     background: #001381;
 }
 
