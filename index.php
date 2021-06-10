@@ -68,32 +68,32 @@
                 </p>
             </div>
             <figure>
-                <img src="#" width="320" height="175" alt="">
+                <img src="images/color-lab.png" width="320" height="175" alt="">
             </figure>
             <figure>
-                <img src="#" width="320" height="175" alt="">
+                <img src="images/nails-studio.png" width="320" height="175" alt="">
             </figure>
-            <h3>Другие товары</h3>
+            <h3>Популярные услуг</h3>
             <div class="others-products">
                 <figure>
-                    <img src="#" width="96" height="96" alt="">
-                    <figcaption>Оружие</figcaption>
+                    <img src="images/perming.png" width="96" height="96" alt="">
+                    <figcaption>Завивки</figcaption>
                 </figure>
                 <figure>
-                    <img src="#" width="96" height="96" alt="">
-                    <figcaption>Оружие</figcaption>
+                    <img src="images/care-procedure.png" width="96" height="96" alt="">
+                    <figcaption>Уходы</figcaption>
                 </figure>
                 <figure>
-                    <img src="#" width="96" height="96" alt="">
-                    <figcaption>Оружие</figcaption>
+                    <img src="images/haircut.png" width="96" height="96" alt="">
+                    <figcaption>Стрижки</figcaption>
                 </figure>
                 <figure>
-                    <img src="#" width="96" height="96" alt="">
-                    <figcaption>Оружие</figcaption>
+                    <img src="images/perming-real.png" width="96" height="96" alt="">
+                    <figcaption>Укладки</figcaption>
                 </figure>
                 <figure>
-                    <img src="#" width="96" height="96" alt="">
-                    <figcaption>Оружие</figcaption>
+                    <img src="images/coloring.png" width="96" height="96" alt="">
+                    <figcaption>Окрашивания</figcaption>
                 </figure>
             </div>
         </section>
