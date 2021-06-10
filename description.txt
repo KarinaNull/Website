@@ -1,9 +1,11 @@
- <p>It is a long established fact that a reader will be distracted by the readable content of a page when
-looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution
-of letters, as opposed to using 'Content here, content here', making it look like readable English
-Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, 
-and a search for 'lorem ipsum' will uncover many web sites still in their infancy. </p>
-
- <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-in some form, by injected humour, or randomised words which don't look even slightly believable. 
-If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden </p>
+<h3>Дорогие гости! </h3>
+<p> Каждый мастер из нашей команды искренне любит свое дело. Мы, креативные и жизнерадостные люди с неутомимым желанием познавать новое, мы рады заботиться о Вас!
+В женщине должно быть все красиво и неповторимо! Уже при входе в студию красоты у Вас возникает чувство уюта и комфорта - приятная атмосфера, спокойная музыка,
+приветливые администраторы, ароматный кофе или капучино только из натуральных зерен, чай. Удачное расположение относится к одному из плюсов - 
+в шаговой доступности от метро Комсомольская или Красносельская, а приехав на личном автомобиле у Вас никогда не возникнет проблема с парковкой!
+Free WI-FI на двух этажах!</p>
+<p> Мы всегда рады подобрать Вам стильную форму стрижки и выразительны цвет волос!</p>
+<p>Фото до и после Вы сможете увидеть на нашем сайте. Модные волосы – это результат профессиональной работы опытных специалистов.
+Наша правильная укладка волос держит объем прически до пяти дней. Мы готовы выполнить любую прическу на длинные волосы или модную стрижку каре.
+Колористы предлагают широчайший спектр благородных натуральных оттенков и разнообразнейших эффектов естественной неоднородности цвета, 
+которые могут быть достигнуты с помощью особых техник мелирования волос для блондинок и брюнеток: "Калифорнийском", "Венецианском", "Шатуш" и неотразимом "Lux-брондировании".</p>

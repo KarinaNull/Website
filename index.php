@@ -19,15 +19,28 @@
         <nav>
             <div class="top-menu">
                 <ul>
-                    <li><a href="#">Главная</a></li>
+                    <li><a href="#">О салоне</a></li>
                     <li><a href="#">Услуги</a>
                         <ul>
-                            <li><a href="#">Услуга 1</a></li>
-                            <li><a href="#">Длинная услуга 2</a></li>
-                            <li><a href="#">Услуга 3</a></li>
+                            <li><a href="#">Стрижки</a></li>
+                            <li><a href="#">Окрашивания</a></li>
+                            <li><a href="#">Уходовые процедуры</a></li>
+                            <li><a href="#">Био-завивки</a></li>
+                            <li><a href="#">Укладки и прически</a></li>
+                            <li><a href="#">Лечение волос</a></li>
+                            <li><a href="#">Наращивание волос</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Цены</a></li>
+                    <li><a href="#">Витрина</a>
+                        <ul>
+                            <li><a href="#">Кондиционеры</a></li>
+                            <li><a href="#">Маски</a></li>
+                            <li><a href="#">Красители</a></li>
+                            <li><a href="#">Оксиды</a></li>
+                            <li><a href="#">Средства укладки</a></li>
+                            <li><a href="#">Шампуни</a></li>
+                        </ul>
+                    </li>
                     <li><a href="#">Контакты</a></li>
                 </ul>
             </div>
@@ -36,18 +49,23 @@
             <nav>
                 <ul class="aside-menu">
                     </li>
-                    <li><a href="#">О сайте</a>
+                    <li><a href="#">Акции</a>
                         <ul>
-                            <li><a href="#">История</a></li>
-                            <li><a href="#">Коллектив</a></li>
+                            <li><a href="#">Химическая завивка + Стрижка</a></li>
+                            <li><a href="#">Окрашивание Lable-Profesional</a></li>
+                            <li><a href="#">Счастливые часы</a></li>
+                            <li><a href="#">Пенсионерам</a></li>
+                            <li><a href="#">Детские стрижки</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">Карта сайта</a></li>
-                    <li><a href="#">Ссылки</a></li>
+                    <li><a href="#">Цены</a></li>
+                    <li><a href="#">Актуальное</a></li>
+                    <li><a href="#">Условия сотрудничества</a></li>
+
                 </ul>
             </nav>
             <h2>#</h2>
-            <p><img src="#" alt="Our offices"></p>
+            <p><img src="#" alt="Адресса Салонов"></p>
         </aside>
         <section>
             <blockquote>
@@ -73,7 +91,7 @@
             <figure>
                 <img src="images/nails-studio.png" width="320" height="175" alt="">
             </figure>
-            <h3>Популярные услуг</h3>
+            <h3>Популярные услуги</h3>
             <div class="others-products">
                 <figure>
                     <img src="images/perming.png" width="96" height="96" alt="">
@@ -105,8 +123,7 @@
                 <div href="#">23 oct</div>
             </time>
             <p class="twitter-feed">
-                In ultricies pellentesque massa a porta. Aliquam ipsum enim, hendrerit ut porta nec, ullamcorper et
-                nulla. In eget mi dui, sit amet scelerisque nunc. Aenean aug
+                Если моя душа требует перемен, я иду в парикмахерскую и как будто заново родился, и сразу жизнь светит на тебя новыми красками
             </p>
         </div>
         <div class="social-icon">
