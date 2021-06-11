@@ -1,7 +1,7 @@
 body {
     color: #8f8f8f;
     font: 12px Tahoma, sans-serif;
-    background-color: #f8f8f8;
+    background-color: #cacfd179;
     border-top: 5px solid #7e7e7e;
     margin: 0;
     /*csslint box-sizing: false*/
@@ -70,7 +70,7 @@ ul {
 }
 
 a:hover {
-    background: #001381;
+    background: #246977;
 }
 
 li {
