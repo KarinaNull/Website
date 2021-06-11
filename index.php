@@ -61,11 +61,10 @@
                     <li><a href="#">Цены</a></li>
                     <li><a href="#">Актуальное</a></li>
                     <li><a href="#">Условия сотрудничества</a></li>
-
                 </ul>
             </nav>
-            <h2>#</h2>
-            <p><img src="#" alt="Адресса Салонов"></p>
+            <h2>Наше местоположение</h2>
+            <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3976.462180532291!2d73.44916371525068!3d4.689459343059468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b400909c55795c9%3A0xbbf9b30ab78c63d8!2sLUX*2A%20North%20Male%20Atoll%20Resort%20%26%20Villas!5e0!3m2!1sru!2sru!4v1623410489140!5m2!1sru!2sru" width="230" height="160" style="border:0;"></iframe></p>
         </aside>
         <section>
             <blockquote>
