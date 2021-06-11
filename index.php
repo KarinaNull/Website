@@ -127,9 +127,9 @@
         </div>
         <div class="social-icon">
             <h4>SOCIAL NETWORKS</h4>
-            <a href="http://twitter.com/"></a>
-            <a href="http://facebook.com/"></a>
-            <a href="http://youtube.com/"></a>
+            <a href="http://instagram.com/"><img src="https://instagram.com/favicon.ico"></a>
+            <a href="http://vk.com/"><img src="https://vk.com/favicon.ico"></a>
+            <a href="http://github.com/"><img src="https://github.com/favicon.ico"></a>
         </div>
     </footer>
 </body>

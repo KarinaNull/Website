@@ -282,7 +282,10 @@ footer p {
 .social-icon a {
     width: 30px;
     height: 30px;
-    background: url(images/social-icon.png) no-repeat;
     display: inline-block;
     margin-right: 10px;
+}
+
+.social-icon a:hover {
+    background: #557e861c;
 }
